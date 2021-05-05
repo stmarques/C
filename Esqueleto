@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main ()
+{
+	/* declaração de variáveis */
+
+	/* lista de comandos */
+
+	return 0;
+}
