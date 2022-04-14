@@ -2,7 +2,7 @@
 
 int main () {
   
-  /* Primeeiro programa em C */
+  /* Primeiro programa em C */
   
   /* declarações: todas as variáveis utilizadas precisam ser declaras */
   
